@@ -7,5 +7,6 @@ Technical task for unifost company
 - Также в репозитории приложен результат выполнения программы "lng-4-result.txt"
 
 #### Program start
-*arg1 - input file | arg2 - output file
-Чтобы запустить программу, выполните команду: java -jar UniqueGroups-1.jar arg1 arg2 
+- arg1 - input file
+- arg2 - output file
+- Чтобы запустить программу, выполните команду: java -jar UniqueGroups-1.jar arg1 arg2 
